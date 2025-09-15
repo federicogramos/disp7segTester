@@ -1,5 +1,9 @@
 # About
 
+En proceso.. no terminado...
+
+# View
+
 Opens with Altium Designer 10.589.22577
 
 Also, view it online in Altium 360:
