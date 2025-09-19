@@ -20,6 +20,10 @@ https://raw.githubusercontent.com/federicogramos/disp7segTester/main/disp7segTes
 https://raw.githubusercontent.com/federicogramos/disp7segTester/main/relayNetwork.SchDoc
 ```
 
+```
+https://raw.githubusercontent.com/federicogramos/disp7segTester/main/ldr.SchDoc
+```
+
 PCB link to upload in viewer:
 ```
 https://raw.githubusercontent.com/federicogramos/disp7segTester/main/disp7segTester.PcbDoc
