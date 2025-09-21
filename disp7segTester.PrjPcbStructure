@@ -1,5 +1,6 @@
 Record=SheetSymbol|SourceDocument=segments.SchDoc|Designator=relayNetwork|SchDesignator=relayNetwork|FileName=relayNetwork.SchDoc|SymbolType=Normal|RawFileName=relayNetwork.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=disp7segTester.SchDoc|Designator=anodes|SchDesignator=anodes|FileName=anodes.SchDoc|SymbolType=Normal|RawFileName=anodes.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=disp7segTester.SchDoc|Designator=ldr|SchDesignator=ldr|FileName=ldr.SchDoc|SymbolType=Normal|RawFileName=ldr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=disp7segTester.SchDoc|Designator=pmosfet|SchDesignator=pmosfet|FileName=pmosfet.SchDoc|SymbolType=Normal|RawFileName=pmosfet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=disp7segTester.SchDoc|Designator=segments|SchDesignator=segments|FileName=segments.SchDoc|SymbolType=Normal|RawFileName=segments.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=TopLevelDocument|FileName=disp7segTester.SchDoc
