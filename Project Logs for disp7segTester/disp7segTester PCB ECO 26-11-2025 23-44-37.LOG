@@ -1,0 +1,113 @@
+Added Component: Designator=C1(c1206)
+Added Component: Designator=JP11(idc10x2)
+Added Component: Designator=M1(LM2596 MODULE)
+Added Component: Designator=Q5_levelTranslate1(SOT23)
+Added Component: Designator=Q5_levelTranslate2(SOT23)
+Added Component: Designator=Q5_levelTranslate3(SOT23)
+Added Component: Designator=Q5_levelTranslate4(SOT23)
+Added Component: Designator=Q5_levelTranslate5(SOT23)
+Added Component: Designator=R55_levelTranslate1(R1206)
+Added Component: Designator=R55_levelTranslate2(R1206)
+Added Component: Designator=R55_levelTranslate3(R1206)
+Added Component: Designator=R55_levelTranslate4(R1206)
+Added Component: Designator=R55_levelTranslate5(R1206)
+Added Component: Designator=R56_levelTranslate1(R1206)
+Added Component: Designator=R56_levelTranslate2(R1206)
+Added Component: Designator=R56_levelTranslate3(R1206)
+Added Component: Designator=R56_levelTranslate4(R1206)
+Added Component: Designator=R56_levelTranslate5(R1206)
+Added Component: Designator=U12(DIP20Z)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+5V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=SCL Pin=JP11-4
+Added Pin To Net: NetName=GND Pin=U12-10
+Added Net: Name=+5VIN
+Added Pin To Net: NetName=3.3V Pin=JP11-1
+Added Pin To Net: NetName=3.3V Pin=Q5_levelTranslate1-1
+Added Pin To Net: NetName=3.3V Pin=Q5_levelTranslate2-1
+Added Pin To Net: NetName=3.3V Pin=Q5_levelTranslate3-1
+Added Pin To Net: NetName=3.3V Pin=Q5_levelTranslate4-1
+Added Pin To Net: NetName=3.3V Pin=Q5_levelTranslate5-1
+Added Pin To Net: NetName=3.3V Pin=R56_levelTranslate1-2
+Added Pin To Net: NetName=3.3V Pin=R56_levelTranslate2-2
+Added Pin To Net: NetName=3.3V Pin=R56_levelTranslate3-2
+Added Pin To Net: NetName=3.3V Pin=R56_levelTranslate4-2
+Added Pin To Net: NetName=3.3V Pin=R56_levelTranslate5-2
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CAM_PDWN Pin=JP11-18
+Added Net: Name=CAM_PDWN
+Added Pin To Net: NetName=CAM_RST Pin=JP11-17
+Added Net: Name=CAM_RST
+Added Pin To Net: NetName=HSYNC Pin=JP11-6
+Added Net: Name=HSYNC
+Added Pin To Net: NetName=MCLK Pin=JP11-8
+Added Net: Name=MCLK
+Added Pin To Net: NetName=NetQ5_levelTranslate1_2 Pin=Q5_levelTranslate1-3
+Added Pin To Net: NetName=NetQ5_levelTranslate1_2 Pin=R55_levelTranslate1-1
+Added Net: Name=NetQ5_levelTranslate1_2
+Added Pin To Net: NetName=NetQ5_levelTranslate1_3 Pin=Q5_levelTranslate1-2
+Added Pin To Net: NetName=NetQ5_levelTranslate1_3 Pin=R56_levelTranslate1-1
+Added Net: Name=NetQ5_levelTranslate1_3
+Added Pin To Net: NetName=NetQ5_levelTranslate2_2 Pin=Q5_levelTranslate2-3
+Added Pin To Net: NetName=NetQ5_levelTranslate2_2 Pin=R55_levelTranslate2-1
+Added Net: Name=NetQ5_levelTranslate2_2
+Added Pin To Net: NetName=NetQ5_levelTranslate2_3 Pin=Q5_levelTranslate2-2
+Added Pin To Net: NetName=NetQ5_levelTranslate2_3 Pin=R56_levelTranslate2-1
+Added Net: Name=NetQ5_levelTranslate2_3
+Added Pin To Net: NetName=NetQ5_levelTranslate3_2 Pin=Q5_levelTranslate3-3
+Added Pin To Net: NetName=NetQ5_levelTranslate3_2 Pin=R55_levelTranslate3-1
+Added Net: Name=NetQ5_levelTranslate3_2
+Added Pin To Net: NetName=NetQ5_levelTranslate3_3 Pin=Q5_levelTranslate3-2
+Added Pin To Net: NetName=NetQ5_levelTranslate3_3 Pin=R56_levelTranslate3-1
+Added Net: Name=NetQ5_levelTranslate3_3
+Added Pin To Net: NetName=NetQ5_levelTranslate4_2 Pin=Q5_levelTranslate4-3
+Added Pin To Net: NetName=NetQ5_levelTranslate4_2 Pin=R55_levelTranslate4-1
+Added Net: Name=NetQ5_levelTranslate4_2
+Added Pin To Net: NetName=NetQ5_levelTranslate4_3 Pin=Q5_levelTranslate4-2
+Added Pin To Net: NetName=NetQ5_levelTranslate4_3 Pin=R56_levelTranslate4-1
+Added Net: Name=NetQ5_levelTranslate4_3
+Added Pin To Net: NetName=NetQ5_levelTranslate5_2 Pin=Q5_levelTranslate5-3
+Added Pin To Net: NetName=NetQ5_levelTranslate5_2 Pin=R55_levelTranslate5-1
+Added Net: Name=NetQ5_levelTranslate5_2
+Added Pin To Net: NetName=NetQ5_levelTranslate5_3 Pin=Q5_levelTranslate5-2
+Added Pin To Net: NetName=NetQ5_levelTranslate5_3 Pin=R56_levelTranslate5-1
+Added Net: Name=NetQ5_levelTranslate5_3
+Added Pin To Net: NetName=PXCLK Pin=JP11-7
+Added Net: Name=PXCLK
+Added Pin To Net: NetName=PXD0 Pin=JP11-16
+Added Net: Name=PXD0
+Added Pin To Net: NetName=PXD1 Pin=JP11-15
+Added Net: Name=PXD1
+Added Pin To Net: NetName=PXD2 Pin=JP11-14
+Added Net: Name=PXD2
+Added Pin To Net: NetName=PXD3 Pin=JP11-13
+Added Net: Name=PXD3
+Added Pin To Net: NetName=PXD4 Pin=JP11-12
+Added Net: Name=PXD4
+Added Pin To Net: NetName=PXD5 Pin=JP11-11
+Added Net: Name=PXD5
+Added Pin To Net: NetName=PXD6 Pin=JP11-10
+Added Net: Name=PXD6
+Added Pin To Net: NetName=PXD7 Pin=JP11-9
+Added Net: Name=PXD7
+Added Pin To Net: NetName=VSYNC Pin=JP11-5
+Added Net: Name=VSYNC
+Added Class: Name=camera
+Added Class: Name=disp7segTester
+Added Class: Name=extra
+Added Class: Name=levelTranslate1
+Added Class: Name=levelTranslate2
+Added Class: Name=levelTranslate3
+Added Class: Name=levelTranslate4
+Added Class: Name=levelTranslate5
+Added Class: Name=pmosfet1
+Added Class: Name=pmosfet2
+Added Class: Name=pmosfet3
+Added Class: Name=pmosfet4
+Added Class: Name=pmosfet5
+Added Class: Name=pmosfet6
+Added Class: Name=pmosfet7
+Added Class: Name=pmosfet8
+Added Class: Name=levelTranslate
+Added Member To Class: ClassName=powerSupply Member=Component M1 MODULE STEP DOWN 3A LM2596
