@@ -16,7 +16,7 @@ Hardware que concentra lo siguiente:
 
 No requiere el uso de demasiados puertos, puesto que se utilizan shift registers para implementar la mayoria de la salidas para la logica de control.
 
-El conector deplaca fue diseñado para ser utilizada con:
+El conector de placa fue diseñado para ser utilizada con:
 
 https://github.com/federicogramos/intelGalileoIdcAdapter
 
