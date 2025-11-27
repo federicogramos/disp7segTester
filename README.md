@@ -14,7 +14,7 @@ Hardware que concentra lo siguiente:
 
 -- hw para medir independientemente la corriente de cátodo de cada uno de los segmentos.
 
-No requiere el uso de demasiados puertos, puerto que se utilizan shift registers para implementar la mayoria de la salidas para la logica de control.
+No requiere el uso de demasiados puertos, puesto que se utilizan shift registers para implementar la mayoria de la salidas para la logica de control.
 
 El conector deplaca fue diseñado para ser utilizada con:
 
